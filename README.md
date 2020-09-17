@@ -1,4 +1,4 @@
-# Exploration-of-AirBnB-s-data-and-Recommendation-System
+# AirBnB-Data-Exploration
 Here we analyze data (of 2019) from AirBnB and we implement a Recommendation System. 
 
 # Summary 
