@@ -1,5 +1,5 @@
 # AirBnB-Data-Exploration
-Here we analyze data (of 2019) from AirBnB and we implement a Recommendation System. 
+Here we analyze data (of 2019) from AirBnB and we implement a Recommendation System!
 
 # Summary 
 In first section of this project we answer to a lot of queries, which are based on exploration of data, like examination of prices through months or find frequency of each room_type in each neighbourhood of Athens.
