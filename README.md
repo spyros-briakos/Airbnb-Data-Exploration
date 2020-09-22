@@ -1,5 +1,5 @@
 # AirBnB-Data-Exploration
-In this Project we have to deal with data from a well-known home rental application, named AirBnB. Specifically, we have collected data from the area of Athens for 3 months of 2019. The data is in csv format and we used Python to answer the following questions.
+In this Project we have to deal with data from a well-known home rental application, named AirBnB. Specifically, we have collected data from the area of Athens for 3 months of 2019. The data is in csv format and we used Python to answer the following questions. 
 
 ## **Question 1: Data exploration**
 The data given to us is organized in 3 folders (April, March, February). Each folder contains different csv files that we must combine and merge properly using **python** and **pandas**. In particular, we needed to create a single csv file containing the following columns: 
