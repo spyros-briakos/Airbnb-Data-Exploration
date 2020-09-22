@@ -37,11 +37,11 @@ In this file (named train.csv) we have asked to study if there are missing data 
 **1.3)** What are the top 5 neighborhoods with the most reviews?  
 **1.4)** What is the neighborhood with the most property listings?  
 **1.5)** How many entries are per neighborhood and per month?  
-**1.6)** Draw the histogram of the neighborhood variable
-**1.7)** What is the most common room_type in each neighborhood? 
-**1.8)** What is the most expensive room type?
-**1.9)** Use the Folium Map library with the latitude/longitude columns and display the properties on a map for a month of your choice and in the popup map select any other information you want to appear for the property (egbed_type, room_type, transit, etc.) 
-**1.10)** Create different Wordclouds with the data from the neighborhood, transit, description, last_review.
+**1.6)** Draw the histogram of the neighborhood variable  
+**1.7)** What is the most common room_type in each neighborhood?  
+**1.8)** What is the most expensive room type?  
+**1.9)** Use the Folium Map library with the latitude/longitude columns and display the properties on a map for a month of your choice and in the popup map select any other information you want to appear for the property (egbed_type, room_type, transit, etc.)  
+**1.10)** Create different Wordclouds with the data from the neighborhood, transit, description, last_review.  
 **1.11)** What other information could you extract from this data? Consider 2 additional questions about the Athens area and display the results (you can also combine more than 2 columns).
 
 ## Question 2: Recommendation System
