@@ -29,7 +29,7 @@ price
 Availability_365  
 Minimum_nights  
 
-
+ 
 In this file (named train.csv) we have asked to study if there are missing data and to decide how to handle them (delete them or fill them in properly in the train.csv file). Futhermore, we have to answer the following questions using graphs, histograms, heat maps, etc. either with matplotlib or seaborn or any other library we want.  
 
 **1.1)** What is the most common type of room_type for your data?  
