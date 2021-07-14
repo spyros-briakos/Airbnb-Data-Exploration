@@ -1,7 +1,7 @@
 # AirBnB-Data-Exploration
 In this Project we have to deal with data from a well-known home rental application, named AirBnB. Specifically, we have collected data from the area of Athens for 3 months of 2019. The data is in csv format and we used Python to answer the following questions. 
 
-Check it here: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/Airbnb-Data-Exploration/blob/main/Data_Mining_Project_1.ipynb)
+Check it here: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/Airbnb-Data-Exploration/blob/master/Data_Mining_Project_1.ipynb)
 
 
 ## **Question 1: Data exploration**
